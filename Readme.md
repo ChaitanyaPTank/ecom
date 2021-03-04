@@ -1,9 +1,9 @@
 # JWT = JSON Web Token
 
-JWT has 3 parts: -> (.) : xxxx.yyyy.zzzz
+* JWT has 3 parts: -> (.) : xxxx.yyyy.zzzz
     - header -> it is base64URL -encoded JSON object
     - payloads -> has claims which are about user and additional data
-        - There are 3 different types of claims
+    - There are 3 different types of claims
             - Private
             - Public
             - Registered
